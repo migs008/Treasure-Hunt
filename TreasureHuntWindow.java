@@ -152,7 +152,7 @@ public class TreasureHuntWindow extends JFrame
                     
                     treasureButton[i].addActionListener(new TreasureButtonListener());
                 }
-                
+                break;
                 
             }
             while (treasures < 19);
